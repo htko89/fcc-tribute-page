@@ -17,7 +17,7 @@ course: "04 - Basic Front End Development Projects"
 project: "01 - Build a Tribute Page"
 ---
 # Student Project - Free Code Camp
-Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/NNvBQW/.
+Build an app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/NNvBQW/
 
 ## Project Criteria:
 * Fulfill the below user stories. Use whichever libraries you need. Give it your own personal style.

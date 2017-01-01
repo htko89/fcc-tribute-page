@@ -8,10 +8,12 @@ topics:
   - "code"
 tools:
   - "bootstrap"
-cover: "cover.png"
+cover: "cover.jpg"
 photo:
-  - "mockup-tablet.png"
-link: "/index.html"
+  - "screenshot-ipadpro.jpg"
+  - "mockup-tablet.jpg"
+link: "https://htko89.github.io/fcc-tribute-page/release/"
+code: "https://github.com/htko89/fcc-tribute-page"
 program: "01 - Front End Development Certification"
 course: "04 - Basic Front End Development Projects"
 project: "01 - Build a Tribute Page"

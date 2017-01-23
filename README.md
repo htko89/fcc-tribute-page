@@ -13,7 +13,6 @@ program: 01 - Front End Development Certification
 course: 04 - Basic Front End Development Projects
 project: 01 - Build a Tribute Page
 photos:
-  - cover.jpg
   - screenshot-ipadpro.jpg
   - mockup-tablet.jpg
 path: code/fcc/tribute-page

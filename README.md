@@ -1,4 +1,4 @@
-# Free Code Camp - Responsive Web Design Projects - Build a Tribute Page
+# FreeCodeCamp - Responsive Web Design Projects - Build a Tribute Page
 [View Challenge](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 
 ## Project Criteria:

@@ -2,19 +2,15 @@
 [View Challenge](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 
 ## Project Criteria:
-- **Objective:** Build a [CodePen.io](https://codepen.io) app that is functionally similar to this: [https://codepen.io/freeCodeCamp/full/zNBOYG](https://codepen.io/freeCodeCamp/full/zNBOYG).
+- **Objective:** Build a [CodePen.io](https://codepen.io) app that is functionally similar to this: [https://codepen.io/freeCodeCamp/full/zNqgVx](https://codepen.io/freeCodeCamp/full/zNqgVx).
 - Fulfill the below [user stories](https://en.wikipedia.org/wiki/User_story) and get all of the tests to pass. Give it your own personal style.
-- **User Story #1:** My portfolio should have a welcome section with an id of `welcome-section`.
-- **User Story #2:** The welcome section should have an `h1` element that contains text.
-- **User Story #3:** My portfolio should have a projects section with an id of `projects`.
-- **User Story #4:** The projects section should contain at least one element with a class of `project-tile` to hold a project.
-- **User Story #5:** The projects section should contain at least one link to a project.
-- **User Story #6:** My portfolio should have a navbar with an id of `navbar`.
-- **User Story #7:** The navbar should contain at least one link that I can click on to navigate to different sections of the page.
-- **User Story #8:** My portfolio should have a link with an id of `profile-link`, which opens my GitHub or FCC profile in a new tab.
-- **User Story #9:** My portfolio should have at least one media query.
-- **User Story #10:** The height of the welcome section should be equal to the height of the viewport.
-- **User Story #11:** The navbar should always be at the top of the viewport.
-- You can build your project by forking [this CodePen pen](http://codepen.io/freeCodeCamp/pen/MJjpwO). Or you can use this CDN link to run the tests in any environment you like: `https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js`
-- Once you're done, submit the URL to your working project with all its tests passing.
-- Remember to use the [Read-Search-Ask](https://forum.freecodecamp.org/t/how-to-get-help-when-you-are-stuck/19514) method if you get stuck.
+- **User Story #1:** My tribute page should have an element with a corresponding `id="main"`, which contains all other elements.
+- **User Story #2:** I should see an element with a corresponding `id="title"`, which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").
+- **User Story #3:** I should see a `div` element with a corresponding `id="img-div"`.
+- **User Story #4:** Within the `img-div` element, I should see an `img` element with a corresponding `id="image"`.
+- **User Story #5:** Within the `img-div` element, I should see an element with a corresponding `id="img-caption"` that contains textual content describing the image shown in `img-div`.
+- **User Story #6:** I should see an element with a corresponding `id="tribute-info"`, which contains textual content describing the subject of the tribute page.
+- **User Story #7:** I  should see an `a` element with a corresponding `id="tribute-link"`, which links to an outside site that contains additional information about the subject of the tribute page. HINT: You must give your element an attribute of `target` and set it to `_blank` in order for your link to open in a new tab (i.e. `target="_blank"`).
+- **User Story #8:** The `img` element should responsively resize, relative to the width of its parent element, without exceeding its original size.
+- **User Story #9:** The `img` element should be centered within its parent element.
+- You can build your project by forking [this CodePen pen](http://codepen.io/freeCodeCamp/pen/MJjpwO). Or you can use this CDN link to run the tests in any environment you like: `https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js`.
